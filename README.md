@@ -113,12 +113,7 @@ We use runway() function to draw runway road.
 ### Output screenshots -
 
 
-<img src ="ss1.png" width=400/>
-<br>
-<img src ="ss2.png"  width=400/>
-<br>
-<img src ="ss3.png"  width=400/>
-<img src ="ss4.png"  width=400/>
+<img src ="assets/cg.gif" width=400/>
 <br>
 <br>
 
