@@ -12,7 +12,7 @@
 <br>
 <br>
 
-The file <B>``` plane.cpp```</b> has the solution code for the above problem.
+The file <B>``` graph.cpp```</b> has the solution code for the above problem.
 
 <B>```The size of the window is 500x500.```</B>
 
